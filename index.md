@@ -46,7 +46,7 @@ I participated in many game jams:
   * Creative Jam 2015
   * ...
  
-My entries can be found on my personal website: (http://gogopr.org)[http://gogopr.org]
+My entries can be found on my personal website: [http://gogopr.org](http://gogopr.org)
  
 ### Side projects
 
@@ -58,7 +58,7 @@ I participated in various open-source projects:
   * Tiled
   * Sprite Sheet Packer
   
-More can be found on my Github: (https://github.com/gogoprog)[https://github.com/gogoprog]
+More can be found on my Github: [https://github.com/gogoprog](https://github.com/gogoprog)
 
 ## Education
 
@@ -78,8 +78,8 @@ __Haute Ecole Provinciale Mons-Borinage-Centre__
  
 ## Hobbies
 
-__Guitar player__
-Amateur rock and blues player
+__Guitar__
+Amateur Blues and Rock'n'Roll player
 
 `1996-2003`
 __Base-ball @ Frameries__
