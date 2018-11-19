@@ -29,38 +29,61 @@ __Fishing Cactus__
 
 - Developer
 
+`January 2009 - May 2009`
+__Gateway Communications__
+
+- Intern developer
+
 ### Game jams
 
 I participated in many game jams:
 
- - Global Game Jam 2011
- - Global Game Jam 2013
- - Global Game Jam 2014
- - Monster Game Jam 2014
- - Global Game Jam 2015
- - Creative Jam 2015
- ...
+  * Global Game Jam 2011
+  * Global Game Jam 2013
+  * Global Game Jam 2014
+  * Monster Game Jam 2014
+  * Global Game Jam 2015
+  * Creative Jam 2015
+  * ...
  
- My entries can be found on my personal website: http://gogopr.org
+My entries can be found on my personal website: (http://gogopr.org)[http://gogopr.org]
  
-
 ### Side projects
 
 I participated in various open-source projects:
 
-  - Urho3D
-  - Emscripten
-  - Haxe
-  - Tiled
-
+  * Urho3D
+  * Emscripten
+  * Haxe
+  * Tiled
+  * Sprite Sheet Packer
+  
+More can be found on my Github: (https://github.com/gogoprog)[https://github.com/gogoprog]
 
 ## Education
 
 `2006-2009`
 __Haute Ecole Provinciale Mons-Borinage-Centre__
 
-- Grande distinction en Informatique de Gestion
+- `Grande distinction` in `Informatique de Gestion`
 
+## Skills
+
+ * C++
+ * HTML5
+ * JavaScript
+ * Haxe
+ * Linux
+ * Vim
+ 
+## Hobbies
+
+__Guitar player__
+Amateur rock and blues player
+
+`1996-2003`
+__Base-ball @ Frameries__
+Center field and pitcher
 
 <!-- ### Footer
 
