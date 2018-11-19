@@ -31,7 +31,27 @@ __Fishing Cactus__
 
 ### Game jams
 
+I participated in many game jams:
+
+ - Global Game Jam 2011
+ - Global Game Jam 2013
+ - Global Game Jam 2014
+ - Monster Game Jam 2014
+ - Global Game Jam 2015
+ - Creative Jam 2015
+ ...
+ 
+ My entries can be found on my personal website: http://gogopr.org
+ 
+
 ### Side projects
+
+I participated in various open-source projects:
+
+  - Urho3D
+  - Emscripten
+  - Haxe
+  - Tiled
 
 
 ## Education
