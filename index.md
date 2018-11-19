@@ -6,8 +6,7 @@ title: Gauthier Billot's CV
 Game developer on many platforms.
 
 <div id="webaddress">
-<a href="gauthier.billot@gmail.com">gauthier.billot@gmail.com</a>
-| <a href="http://gogopr.org">My personal page</a>
+<a href="gauthier.billot@gmail.com">gauthier.billot@gmail.com</a> | Birth date: 11 May 1986
 </div>
 
 
