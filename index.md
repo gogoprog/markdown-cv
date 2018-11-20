@@ -66,22 +66,29 @@ More can be found on my Github: [https://github.com/gogoprog](https://github.com
 
 ## Education
 
+### Diploma
+
 `2006-2009`
 __Haute Ecole Provinciale Mons-Borinage-Centre__
 
 - Grande distinction - Informatique de Gestion
 
-## Main Skills
+## Skills
+
+### &nbsp;
 
  * • C++
- * • HTML5
  * • JavaScript
  * • Haxe
+ * • Lua
+ * • HTML5
  * • Linux
  * • Vim
  * • OpenGL
 
 ## Hobbies
+
+### &nbsp;
 
 __Guitar__
 Amateur Blues and Rock'n'Roll player
