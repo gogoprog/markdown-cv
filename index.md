@@ -5,8 +5,11 @@ title: Gauthier Billot's CV
 # Gauthier Billot
 Game developer on many platforms.
 
+<img class="pic" src="https://firefalcom.github.io/website/img/team/gauthier.jpg"/>
 <div id="webaddress">
-<a href="gauthier.billot@gmail.com">gauthier.billot@gmail.com</a> | Birth date: 11 May 1986
+<a href="gauthier.billot@gmail.com">gauthier.billot@gmail.com</a><br/>
+Location: Mons<br/>
+Birth date: 11 May 1986<br/>
 </div>
 
 
@@ -14,7 +17,7 @@ Game developer on many platforms.
 
 ### Occupation
 
-`December 2017`
+`12/2017`
 __Fire Falcom__
 
 - Co-Owner
@@ -29,7 +32,7 @@ __Fishing Cactus__
 
 - Developer
 
-`January 2009 - May 2009`
+`2009`
 __Gateway Communications__
 
 - Intern developer
@@ -38,13 +41,13 @@ __Gateway Communications__
 
 I participated in many game jams:
 
-  * Global Game Jam 2011
-  * Global Game Jam 2013
-  * Global Game Jam 2014
-  * Monster Game Jam 2014
-  * Global Game Jam 2015
-  * Creative Jam 2015
-  * ...
+  * • Global Game Jam 2011
+  * • Global Game Jam 2013
+  * • Global Game Jam 2014
+  * • Monster Game Jam 2014
+  * • Global Game Jam 2015
+  * • Creative Jam 2015
+  * • ...
  
 My entries can be found on my personal website: [http://gogopr.org](http://gogopr.org)
  
@@ -52,12 +55,13 @@ My entries can be found on my personal website: [http://gogopr.org](http://gogop
 
 I participated in various open-source projects:
 
-  * Urho3D
-  * Emscripten
-  * Haxe
-  * Tiled
-  * Sprite Sheet Packer
-  
+  * • Urho3D
+  * • Emscripten
+  * • Haxe
+  * • Tiled
+  * • Sprite Sheet Packer
+  * • ...
+
 More can be found on my Github: [https://github.com/gogoprog](https://github.com/gogoprog)
 
 ## Education
@@ -65,23 +69,24 @@ More can be found on my Github: [https://github.com/gogoprog](https://github.com
 `2006-2009`
 __Haute Ecole Provinciale Mons-Borinage-Centre__
 
-- `Grande distinction` in `Informatique de Gestion`
+- Grande distinction - Informatique de Gestion
 
-## Skills
+## Main Skills
 
- * C++
- * HTML5
- * JavaScript
- * Haxe
- * Linux
- * Vim
- 
+ * • C++
+ * • HTML5
+ * • JavaScript
+ * • Haxe
+ * • Linux
+ * • Vim
+ * • OpenGL
+
 ## Hobbies
 
 __Guitar__
 Amateur Blues and Rock'n'Roll player
 
-`1996-2003`
+`1995-2003`
 __Base-ball @ Frameries__
 Center field and pitcher
 

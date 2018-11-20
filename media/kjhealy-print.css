@@ -71,10 +71,10 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 70%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #888;
 }
 
 p code {
@@ -190,5 +190,11 @@ strong {
 }
 
 
-
+.pic {
+	position:absolute;
+	top:-40px;
+	left:-200px;
+	width:128px;
+	height:128px;
+}
 
