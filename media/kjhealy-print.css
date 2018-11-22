@@ -56,9 +56,9 @@ body {
 	font-size: 10pt;
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Verdana,sans-serif;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
+	font-family: 'Cambo', serif;
 }
 
 p {
@@ -73,7 +73,6 @@ code {
 	font: normal normal;
 	font-size: 70%;
 	/*line-height: 1em;*/
-	font-family: Menlo,monospace,sans-serif;
 	color: #888;
 }
 
@@ -114,7 +113,6 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
 	width: 65%;
 }
 
@@ -167,7 +165,6 @@ a:hover {
 	position: relative;
 	left: 28%;
 	color: #ccc;
-	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
 

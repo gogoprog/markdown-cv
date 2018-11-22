@@ -2,16 +2,15 @@
 layout: cv
 title: Gauthier Billot's CV
 ---
+<link href="https://fonts.googleapis.com/css?family=Cambo" rel="stylesheet">
 # Gauthier Billot
 Game developer on many platforms.
-
 <img class="pic" src="https://firefalcom.github.io/website/img/team/gauthier.jpg"/>
 <div id="webaddress">
 <a href="gauthier.billot@gmail.com">gauthier.billot@gmail.com</a><br/>
 Location: Mons<br/>
 Birth date: 11 May 1986<br/>
 </div>
-
 
 ## Experience
 
@@ -46,11 +45,10 @@ I participated in many game jams:
   * • Global Game Jam 2014
   * • Monster Game Jam 2014
   * • Global Game Jam 2015
-  * • Creative Jam 2015
   * • ...
- 
+
 My entries can be found on my personal website: [http://gogopr.org](http://gogopr.org)
- 
+
 ### Side projects
 
 I participated in various open-source projects:
